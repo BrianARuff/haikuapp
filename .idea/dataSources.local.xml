@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails haikuapp: production" uuid="491e70c0-ddc2-42fa-99eb-d79c9856d71d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>haiku</user-name>
+    </data-source>
+  </component>
+</project>

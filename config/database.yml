@@ -25,5 +25,5 @@ production:
   adapter: postgresql
   encoding: unicode
   database: haiku_production
-  username: haiku
+  username: brian
   password: <%= ENV['YOU_SHOULD_ADD_A_PASSWORD'] %>
